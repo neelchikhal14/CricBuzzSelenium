@@ -13,6 +13,10 @@ Steps:
 8.	Get information for Dilshan, print on console
 
 Language          - Python
+
 Model             - Page Object Model
+
 Testing Framework - Pytest
+
 Keywords          - POM, Dynamic XPATH,  AJAX menu, Synchronization of Elements, Pytest
+
