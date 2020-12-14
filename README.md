@@ -1,5 +1,5 @@
 # CricBuzzSelenium
-This is a Selenium Test Framework Repository based on CricBuzz
+This is a small demo of Selenium Test Framework Repository based on CricBuzz
 
 Problem Statement:
 Steps:
