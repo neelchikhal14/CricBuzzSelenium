@@ -37,3 +37,13 @@ class BasePage():
   
 
         return total_team_name
+    
+    
+
+    def get_text(self,by_locator):
+
+        title_element=WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(by_locator))
+                        
+        my_title=title_element.text
+
+        return my_title

@@ -521,3 +521,165 @@ JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691:
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1607964110360	geckodriver	INFO	Listening on 127.0.0.1:53427
+1607964113321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileqK0tw9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607964120898	Marionette	INFO	Listening on port 53435
+1607964121494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+1607964125002	Marionette	INFO	Stopped listening on port 53435
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: https://www.cricbuzz.com/dist/js/cricbuzz.min.1606460309.js, line 362: TypeError: can't access property "protocol", document.location is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607964775308	geckodriver	INFO	Listening on 127.0.0.1:53690
+1607964778346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileHlAmLJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607964785504	Marionette	INFO	Listening on port 53698
+1607964785839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607964810304	Marionette	INFO	Stopped listening on port 53698
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607966391039	geckodriver	INFO	Listening on 127.0.0.1:61304
+1607966394061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofiles8nnpg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607966398999	Marionette	INFO	Listening on port 61318
+1607966399402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://1c8a51ffd1e6128bdc12ba8bc5fda36a.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: ReferenceError: osdlfm is not defined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1607966419306	Marionette	INFO	Stopped listening on port 61318
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607966576060	geckodriver	INFO	Listening on 127.0.0.1:61497
+1607966579113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileOAMost"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607966584578	Marionette	INFO	Listening on port 61507
+1607966584946	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1607968843045	Marionette	INFO	Stopped listening on port 61507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607967803249	Marionette	INFO	Listening on port 62054
+1607967803634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+[Parent 12924, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607968844429	Marionette	INFO	Stopped listening on port 62054
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607967881208	Marionette	INFO	Listening on port 62174
+1607967881254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cricbuzz.com/, line 13: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1607968845175	Marionette	INFO	Stopped listening on port 62174
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileSgMnpJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607968221830	Marionette	INFO	Listening on port 62445
+1607968221884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 19916, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607968845719	Marionette	INFO	Stopped listening on port 62445
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+)"))
+1607968717447	Marionette	INFO	Listening on port 62750
+1607968717826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607968879370	geckodriver	INFO	Listening on 127.0.0.1:62915
+1607968882412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileftWxTD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607968887720	Marionette	INFO	Listening on port 62925
+1607968888259	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1607968900471	Marionette	INFO	Stopped listening on port 62925
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607968950390	geckodriver	INFO	Listening on 127.0.0.1:63022
+1607968953437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileKmRUHK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607968958575	Marionette	INFO	Listening on port 63030
+1607968958800	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://www.cricbuzz.com/, line 13: ReferenceError: osdlfm is not defined
+1607968967898	Marionette	INFO	Stopped listening on port 63030
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607968992863	geckodriver	INFO	Listening on 127.0.0.1:63119
+1607968995925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofilejau4VA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607968999901	Marionette	INFO	Listening on port 63127
+1607969000170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+JavaScript error: https://www.cricbuzz.com/, line 13: ReferenceError: osdlfm is not defined
+1607969008483	Marionette	INFO	Stopped listening on port 63127
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607969044992	geckodriver	INFO	Listening on 127.0.0.1:63227
+1607969048059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileS6efV1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607969053556	Marionette	INFO	Listening on port 63235
+1607969053904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: , line 0: uncaught exception: undefined
+1607969074926	Marionette	INFO	Stopped listening on port 63235
+[Child 2524, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 15280, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
