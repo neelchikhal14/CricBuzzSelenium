@@ -1,5 +1,5 @@
 from Pages.BasePage import BasePage
-from Pages.PlayersPage import PlayersPage
+from Pages.StatsPage import StatsPage
 
 from selenium.webdriver.common.by import By
 
@@ -13,7 +13,7 @@ class FifthTeamPage(BasePage):
 
     xpath_fifth_team_page_title=(By.CSS_SELECTOR,"h1.cb-nav-hdr.cb-font-24.line-ht30")
 
-    xpath_team_players=(By.CSS_SELECTOR,"a[title*='Sri Lanka Cricket Team Players']")
+    xpath_team_players_stats=(By.CSS_SELECTOR,"a[title*='Sri Lanka Cricket Team Stats']")
 
     # create action method for every method
 
@@ -23,8 +23,8 @@ class FifthTeamPage(BasePage):
 
         return fifth_team_title
     
-    def players_click(self):
+    def stats_click(self):
 
-        self.do_click(self.xpath_team_players)
+        self.do_click(self.xpath_team_players_stats)
 
-        return PlayersPage(self.driver)
+        return StatsPage(self.driver)

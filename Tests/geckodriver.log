@@ -620,11 +620,13 @@ JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERRO
 )"))
 1607968717447	Marionette	INFO	Listening on port 62750
 1607968717826	Marionette	WARN	TLS certificate errors will be ignored for this session
-1607968879370	geckodriver	INFO	Listening on 127.0.0.1:62915
-1607968882412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileftWxTD"
-Can't find symbol 'eglSwapBuffersWithDamageEXT'.
-Can't find symbol 'eglSetDamageRegionKHR'.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 22292, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607969363087	Marionette	INFO	Stopped listening on port 62750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+)"))
 1607968887720	Marionette	INFO	Listening on port 62925
 1607968888259	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
@@ -680,6 +682,63 @@ JavaScript error: , line 0: uncaught exception: undefined
 1607969074926	Marionette	INFO	Stopped listening on port 63235
 [Child 2524, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
 [Parent 15280, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607969656667	geckodriver	INFO	Listening on 127.0.0.1:63490
+1607969659723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileDrHXOr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607969665257	Marionette	INFO	Listening on port 63498
+1607969665566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607969672915	Marionette	INFO	Stopped listening on port 63498
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607975866824	geckodriver	INFO	Listening on 127.0.0.1:53298
+1607975869874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileqUM890"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607975875140	Marionette	INFO	Listening on port 53306
+1607975875194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607975879282	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1607975879283	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+1607975880410	Marionette	INFO	Stopped listening on port 53306
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 14088, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607975932758	geckodriver	INFO	Listening on 127.0.0.1:53396
+1607975935808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileXjOTOR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607975940288	Marionette	INFO	Listening on port 53404
+1607975940631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/firebasejs/7.22.0/firebase-analytics.js, line 1: Error: Cannot instantiate firebase-analytics.js - be sure to load firebase-app.js first.
+JavaScript error: https://www.cricbuzz.com/, line 4: ReferenceError: firebase is not defined
+1607975944794	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1607975946034	Marionette	INFO	Stopped listening on port 53404
+JavaScript error: https://www.cricbuzz.com/dist/js/cricbuzz.min.1606460309.js, line 362: TypeError: can't access property "protocol", document.location is null
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: can't access property "provider", this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607976007403	geckodriver	INFO	Listening on 127.0.0.1:53501
+1607976010469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Neel\\AppData\\Local\\Temp\\rust_mozprofileMl5t1V"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607976014989	Marionette	INFO	Listening on port 53509
+1607976015273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607976021872	Marionette	INFO	Stopped listening on port 53509
+JavaScript error: https://www.cricbuzz.com/dist/js/cricbuzz.min.1606460309.js, line 362: TypeError: can't access property "protocol", document.location is null
+[Parent 20872, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
