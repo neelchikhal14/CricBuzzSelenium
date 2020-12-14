@@ -12,5 +12,7 @@ Steps:
 7.	Click on players
 8.	Get information for Dilshan, print on console
 
-
-POM, Dynamic XPATH,  AJAX menu, Synchronization of Elements, Pytest
+Language          - Python
+Model             - Page Object Model
+Testing Framework - Pytest
+Keywords          - POM, Dynamic XPATH,  AJAX menu, Synchronization of Elements, Pytest
