@@ -13,4 +13,4 @@ Steps:
 8.	Get information for Dilshan, print on console
 
 
-POM, Dynamic XPATH,  AJAX menu, Synchronization of Elements
+POM, Dynamic XPATH,  AJAX menu, Synchronization of Elements, Pytest
